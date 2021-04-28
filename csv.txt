@@ -1,0 +1,1 @@
+Die Datei hat am Anfang jeder Zeile den gleichen Anfang, im Hinteren ändert sich nur die Uhrzeit und die Feinstaubwerte.
